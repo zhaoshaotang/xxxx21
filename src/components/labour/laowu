@@ -1,0 +1,8 @@
+接口在src下api里的laborpage.js
+
+approach:人员进出场
+builder:建筑工人分析
+jobtrends:左上角大组件
+species:工种分析
+subcontract:按分包单位分析
+attendance:出勤分析，先不对接口

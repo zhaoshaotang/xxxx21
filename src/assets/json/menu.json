@@ -1,0 +1,96 @@
+{
+    "data":[
+        {
+            "id":"1323451189995638784",
+            "visualId":"14",
+            "name":"升降机监测",
+            "isFirst":2,
+            "detail":null,
+            "component":null,
+            "isDeleted":0,
+            "createTime":"2020-11-03 10:25:27",
+            "updateTime":"2020-11-03 10:56:01",
+            "sort":null
+        },
+        {
+            "id":"1322463129367613440",
+            "visualId":"14",
+            "name":"环境监测",
+            "isFirst":2,
+            "detail":null,
+            "component":null,
+            "isDeleted":0,
+            "createTime":"2020-10-31 16:59:15",
+            "updateTime":"2020-11-02 17:37:28",
+            "sort":null
+        },
+        {
+            "id":"1322104095674339328",
+            "visualId":"14",
+            "name":"塔机监测",
+            "isFirst":2,
+            "detail":null,
+            "component":null,
+            "isDeleted":0,
+            "createTime":"2020-10-30 17:12:35",
+            "updateTime":"2020-10-30 17:12:35",
+            "sort":null
+        },
+        {
+            "id":"14",
+            "visualId":"14",
+            "name":"首页",
+            "isFirst":1,
+            "isDeleted":0,
+            "createTime":"2020-10-12 21:40:12",
+            "updateTime":"2020-10-12 21:40:12",
+            "sort":null
+        },
+        {
+            "id":"1323451189995638784",
+            "visualId":"14",
+            "name":"升降机监测",
+            "isFirst":2,
+            "detail":null,
+            "component":null,
+            "isDeleted":0,
+            "createTime":"2020-11-03 10:25:27",
+            "updateTime":"2020-11-03 10:56:01",
+            "sort":null
+        },
+        {
+            "id":"1322463129367613440",
+            "visualId":"14",
+            "name":"环境监测",
+            "isFirst":2,
+            "detail":null,
+            "component":null,
+            "isDeleted":0,
+            "createTime":"2020-10-31 16:59:15",
+            "updateTime":"2020-11-02 17:37:28",
+            "sort":null
+        },
+        {
+            "id":"1322104095674339328",
+            "visualId":"14",
+            "name":"塔机监测",
+            "isFirst":2,
+            "detail":null,
+            "component":null,
+            "isDeleted":0,
+            "createTime":"2020-10-30 17:12:35",
+            "updateTime":"2020-10-30 17:12:35",
+            "sort":null
+        },
+        {
+            "id":"14",
+            "visualId":"14",
+            "name":"首页",
+            "isFirst":1,
+            "isDeleted":0,
+            "createTime":"2020-10-12 21:40:12",
+            "updateTime":"2020-10-12 21:40:12",
+            "sort":null
+        }
+      ]
+}

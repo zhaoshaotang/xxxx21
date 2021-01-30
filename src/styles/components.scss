@@ -1,0 +1,63 @@
+.header{
+	background: url(../assets/header/header.png) no-repeat top center;
+  }
+.cus-body{
+	 // background: url(../assets/project/blockbg-a-1.png) no-repeat left top,url(../assets/project/blockbg-a-2.png) no-repeat right top;
+	 position: absolute;
+	 box-shadow: 0px 0px 27px #216dfd inset;
+	     height: 100%;
+	     width: 100%;
+}
+.cus-body:before{
+	background: url(../assets/project/blockbg-a-1.png) no-repeat left top,url(../assets/project/blockbg-a-2.png) no-repeat right top;
+	position: absolute;
+	width: 100%;
+	content: '';
+	display: flex;
+	top: 0;
+	left: 0;
+	flex: 1;
+	height: 100%;
+	z-index: -1;
+}
+.cus-body:after{
+	position: absolute;
+	width: 99.8%;
+	content: '';
+	display: flex;
+	top: 0;
+	left: 0;
+	border: 1px solid #0179c4;
+	flex: 1;
+	height: 99.5%;
+	margin: 0 -1px -1px;
+	z-index: -1;
+}
+.cus-header {
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    margin-top: -22px;
+	color: #fff;
+}
+.cus-title{
+    background: url(../assets/project/title-bg-l.png) no-repeat left top / auto 100%, url(../assets/project/title-bg-r.png) no-repeat right top / auto 100%;
+    font-size: 19px;
+    padding: 0 30px;
+    display: inline-flex;
+}
+.cus-title span {
+    background: url(../assets/project/title-bg-c.png) repeat-x center top/auto 100%;
+    padding: 5px 0;
+}
+.cus-cont{
+	height: 100%;
+	margin-top: 10px;
+}
+.piebody {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.jl-chart{ height: 100%; width: 100%;}

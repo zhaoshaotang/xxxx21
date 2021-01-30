@@ -1,0 +1,9 @@
+首页
+pieone：项目概况
+pietwo：人员管理
+piethree：质量管理
+indexpieangl：安全管理
+jlbartwo：智能设备
+dateprogress：工程进度
+jlswiper：主幻灯片
+indexminppt：小幻灯片
